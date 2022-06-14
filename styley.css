@@ -1,0 +1,52 @@
+#clear
+{
+    background-color: #FF0000;
+    border-color: black;
+    color: #FFFFFF;
+    width: 415px;
+    height: 100px;
+}
+
+.equalTo
+{
+    background-color: #58D68D;
+    color: #FFFFFF;
+    border-color: black;
+    width: 155px;
+    height: 100px;
+    /*outline: 2px solid black;*/
+}
+
+.Normal_btn
+{
+    width: 100px;
+    height: 100px;
+    background-color: lightblue;
+    border-color: black;
+}
+
+#btncont
+{
+    margin: 4px;
+}
+
+.btn0
+{
+    height: 100px;
+    background-color: lightblue;
+    border-color: black;
+    width:150px;
+}
+
+.result
+{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    border-color: black;
+    color: #000000;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    margin: 2px;
+}
